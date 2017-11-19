@@ -1,6 +1,6 @@
 # +Project project plan
 
-##Overview
+## Overview
 
 **Dates**:
 
@@ -23,12 +23,12 @@ The purpose of this plan is to present an overview of the major tasks to be comp
 *
 *
 
-##Major milestones
+## Major milestones
 
-###Milestone 1
+### Milestone 1
 
 * tasks
 
-###Milestone 2
+### Milestone 2
 
 * tasks
